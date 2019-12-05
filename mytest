@@ -1,0 +1,24 @@
+CELF22B7.trna2 (19480-19561)	Length: 82 bp
+Type: Ser	Anticodon: AGA at 34-36 (19513-19515)	Score: 80.44
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GCAGTCATGTCCGAGTGGTtAAGGAGATTGACTAGAAATCAATTGGGCTCTGCCCGCGTAGGTTCGAATCCTGCTGACTGCG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.
+
+CELF22B7.trna3 (26367-26439)	Length: 73 bp
+Type: Phe	Anticodon: GAA at 34-36 (26400-26402)	Score: 80.32
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCCTCGATAGCTCAGTTGGGAGAGCGTACGACTGAAGATCGTAAGGtCACCAGTTCGATCCTGGTTCGGGGCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+CELF22B7.trna4 (26992-26920)	Length: 73 bp
+Type: Phe	Anticodon: GAA at 34-36 (26959-26957)	Score: 80.32
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCCTCGATAGCTCAGTTGGGAGAGCGTACGACTGAAGATCGTAAGGtCACCAGTTCGATCCTGGTTCGGGGCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+CELF22B7.trna5 (23765-23694)	Length: 72 bp
+Type: Pro	Anticodon: CGG at 33-35 (23733-23731)	Score: 75.76
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCCGGATGGTCTAGAGGTATGATTCTCGCTTCGGGTGCGAGAGGtCCCGGGTTCGATTCCCGGTTCGGCCC
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+

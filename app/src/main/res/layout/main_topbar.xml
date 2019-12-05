@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:gravity="center_vertical"
+    android:background="@color/gu"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/idMainTopBarTitle"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="4"
+        android:gravity="left|center_vertical"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="tRNA Structure Draw"/>
+
+    <Button
+        android:id="@+id/idMainTopBarAdd"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:contentDescription="@string/app_name"
+        android:text="Input"/>
+
+</LinearLayout>
